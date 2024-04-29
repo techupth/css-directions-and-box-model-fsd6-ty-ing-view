@@ -1,1 +1,55 @@
 /* Start coding here */
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: "Sarabun";
+}
+.container {
+  width: 100vw;
+  height: 100vh;
+}
+.head {
+  width: 100vw;
+  background-color: lightgrey;
+  padding: 30px 30px 30px 30px;
+  font-size: 40px;
+}
+
+.Box-1 {
+  width: 40%;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+  border: 3px solid black;
+}
+.h1 {
+  font-size: 25px;
+  padding: 10px 10px 10px 10px;
+}
+.img-1 {
+  width: 100%;
+  padding: 10px 10px 10px 10px;
+}
+.content-1 {
+  font-size: 16px;
+  padding: 10px 10px 10px 10px;
+}
+
+.Box-2 {
+  width: 40%;
+  padding: 10px 10px 10px 10px;
+  margin: 20px 20px 20px 20px;
+  border: 3px solid black;
+}
+.h2 {
+  font-size: 25px;
+  padding: 10px 10px 10px 10px;
+}
+.img-2 {
+  width: 100%;
+  padding: 10px 10px 10px 10px;
+}
+.content-2 {
+  font-size: 16px;
+  padding: 10px 10px 10px 10px;
+}
