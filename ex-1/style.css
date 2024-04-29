@@ -1,1 +1,26 @@
 /* Start coding here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  background-color: lightsteelblue;
+  padding: 20px;
+  margin-bottom: 50px;
+  color: #4682b4;
+}
+.box {
+  margin-bottom: 100px;
+  margin-left: 50px;
+  border-color: #191970;
+  border-style: solid;
+  background-color: gainsboro;
+  padding-left: 50px;
+  padding-top: 20px;
+  width: 700px;
+  height: 500px;
+}
+img {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}

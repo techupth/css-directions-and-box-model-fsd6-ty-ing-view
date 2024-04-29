@@ -1,1 +1,25 @@
 /* Start coding here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container3 {
+  background-color: lightgrey;
+  padding: 16px;
+}
+h1 {
+  background-color: khaki;
+  padding: 72px;
+  margin: 30px;
+  width: 80vw;
+  height: 65vh;
+  text-align: center;
+}
+.container1 {
+  background-color: crimson;
+  padding: 24px;
+}
+.container2 {
+  background-color: black;
+  padding: 16px;
+}
